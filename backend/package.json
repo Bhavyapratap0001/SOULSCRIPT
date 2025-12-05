@@ -1,5 +1,5 @@
 {
-  "name": "daybook",
+  "name": "SoulScript",
   "version": "1.0.0",
   "description": "A MERN stack application to manage daily journals and tasks",
   "main": "src/index.js",
@@ -9,11 +9,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/thenileshnishad/daybook.git"
+    "url": "git+https://github.com/Bhavyapratap0001/SOULSCRIPT.git"
   },
   "keywords": [
     "mern",
-    "daybook",
+    "SoulScript",
     "journal",
     "task",
     "management"
@@ -21,9 +21,9 @@
   "author": "Bhavya Pratap Singh",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/thenileshnishad/daybook/issues"
+    "url": "https://github.com/Bhavyapratap0001/SOULSCRIPT.git"
   },
-  "homepage": "https://github.com/thenileshnishad/daybook#readme",
+  "homepage": "https://github.com/Bhavyapratap0001/SOULSCRIPT.git",
   "dependencies": {
     "bcryptjs": "^3.0.2",
     "cookie-parser": "^1.4.7",
