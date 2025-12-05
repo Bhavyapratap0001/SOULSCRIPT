@@ -18,6 +18,7 @@ SoulScript is a secure and user-friendly personal journaling app built with the 
    - [**Frontend Setup**](#frontend-setup)
 5. [**API Endpoints**](#5-api-endpoints)
 6. [**Contributing**](#6-contributing)
+7. [**Contact**](#7-contact)
 
 ---
 
@@ -256,3 +257,9 @@ Contributions are welcome! If you'd like to improve DayBook, please follow these
    ```
 
 5. Open a pull request detailing your changes.
+
+---
+
+## 7. Contact
+
+For any inquiries, feel free to contact me at bhavyapratap0707@gmail.com
