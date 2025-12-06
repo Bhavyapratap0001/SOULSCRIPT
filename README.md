@@ -235,7 +235,7 @@ The app should now be running locally. `By default`:
 
 ## 6. Contributing
 
-Contributions are welcome! If you'd like to improve DayBook, please follow these steps:
+Contributions are welcome! If you'd like to improve SoulScript, please follow these steps:
 
 1. Fork the repository.
 2. Create a new branch:
